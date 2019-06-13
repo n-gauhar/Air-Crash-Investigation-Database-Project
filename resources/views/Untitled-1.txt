@@ -1,0 +1,106 @@
+<div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Incident Site</span>
+					<input class="input100" type="text" name="i_s" >
+                </div>
+                
+                <div class="wrap-input100">
+					<span class="label-input100">Summary</span>
+					<input class="input100" type="text" name="summary" >
+				</div>
+                
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Fatalities</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+                
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Survivor</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+                
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Passenger</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+                
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Crew</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+                
+                 <span class="contact100-form-title">
+					Airlines information
+                </span>
+                
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Name</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Country</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">IATA</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">ICAO</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Callsign</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <span class="contact100-form-title">
+					Origin Airport information
+                </span>
+                
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Name</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Location</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">IATA code</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">ICAO</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <span class="contact100-form-title">
+					Destination Airport information
+                </span>
+                
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Name</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Location</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">IATA code</span>
+					<input class="input100" type="text" name="name" >
+                </div>
+
+                <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">ICAO</span>
+					<input class="input100" type="text" name="name" >
+                </div>
